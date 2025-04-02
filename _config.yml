@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Yang Liu's homepage
 description: Welcome! xD This is my portfolio page, where I document my side projects as I continuously expand my knowledge and skills. Most of my projects focus on data science and machine learning. Stay tuned for updates!
