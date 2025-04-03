@@ -1,5 +1,14 @@
 📎
 
+## Deployment of BERT and ViT models for real-time prediction as REST API
+[Repo](https://github.com/Yangliu20/ml-e2e-deploy-fastapi)
+
+This project builds an end-to-end ML pipeline to serve 3 finetuned models (BERT and ViT) as a REST API on AWS EC2 using Python and FastAPI, achieving functions including sentiment analysis, disaster tweet classification, and human pose classification. It is containerized with Docker and leverages Nginx for load balancing. An interactive Streamlit web application is also developed to serve the model by API requests through a user-friendly interface. 
+
+<img src="https://github.com/user-attachments/assets/8842f732-c12c-4ce7-9e2f-5109e44a3007" alt="pipeline design" width=400/>
+<!-- <img src="https://github.com/user-attachments/assets/de4baeaa-0025-4e26-b519-ca15e5620b4a" alt="streamlit demo" width=400/> -->
+
+
 ## Simple CNN from scratch with pure NumPy for image classification
 [Repo](https://github.com/Yangliu20/cnn-numpy)
 
