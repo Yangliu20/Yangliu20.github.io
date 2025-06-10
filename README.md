@@ -3,12 +3,12 @@
 ## Language Modeling From Scratch
 [Repo](https://github.com/Yangliu20/language_modeling-basics)
 
-This ongoing project builds a Transfomer-based language model end-to-end from scratch using PyTorch, following the course content of [Stanford CS336](https://stanford-cs336.github.io/spring2025/). Building blocks of language modeling include tokenizer, core model, optimizer, training pipeline, inference pipeline. The model is trained on TinyStories datasets. 
+This ongoing project builds a Transfomer-based language model end-to-end from scratch using PyTorch. Building blocks of language modeling include tokenizer, core model, optimizer, training pipeline, inference pipeline. The model is trained on TinyStories datasets. 
 
 ## ML Fashion Product Recommendation System
 [Repo](https://github.com/Yangliu20/hm_personalization_recsys)
 
-Here I built a personalized fashion product recommendation system using [H\&M open-source datasets](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data). Specifically, it is a two-stage recommender system with hybrid candidate generators (collaborative \& content-based filtering, trending-item heuristics) and a LightGBM ranking model, optimizing for top-N precision.
+Here I built a personalized fashion product recommendation system using [H&M open-source datasets](https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data). Specifically, it is a two-stage recommender system with hybrid candidate generators (collaborative & content-based filtering, trending-item heuristics) and a LightGBM ranking model, optimizing for top-N precision.
 
 
 ## Deployment of BERT and ViT models for real-time prediction as REST API
